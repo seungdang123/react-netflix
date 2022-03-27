@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/react--helmet--async--1.2.2-blue" />
 </div>
 
-- 👉 [Link](https://imunghee.github.io/Netflix_clone/)
+- This cloning project refered to https://imunghee.github.io/Netflix_clone/
 
 ```
 └─── src
@@ -27,7 +27,7 @@
     │  └─── fonts
     │           NetflixSansBold.ttf
     │           NetflixSansRegular.ttf
-    │ 
+    │
     │
     ├─── components
     │  │     Banner.tsx
@@ -41,12 +41,12 @@
     │         Hearder.style.ts
     │         Modal.style.ts
     │         Slider.style.ts
-    │  
+    │
     │
     ├─── lib
     │      BlockMobile.tsx
     │      NotFound.tsx
-    │      utilities.ts       
+    │      utilities.ts
     │
     │
     ├─── routes
