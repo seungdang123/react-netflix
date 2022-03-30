@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/react--helmet--async--1.2.2-blue" />
 </div>
 
-- This cloning project refered to https://imunghee.github.io/Netflix_clone/
+- This cloning project was created by referring to https://imunghee.github.io/Netflix_clone/ , nomadcoders
 
 ```
 └─── src
